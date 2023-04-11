@@ -3,3 +3,7 @@ I hate it because nothin makes sense when I use it
 Lets see if this changes anything
 
 So far so good. I'm going to just add another simple commit
+
+All good! Lets create a new branch and see what happens
+
+Now I'm in a new branch. Lets commit this and see what happens
