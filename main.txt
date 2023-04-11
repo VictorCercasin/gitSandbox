@@ -1,0 +1,3 @@
+This rep was created so I can try to understand what the actual fuck happens with git
+I hate it because nothin makes sense when I use it
+Lets see if this changes anything
