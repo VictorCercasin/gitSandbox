@@ -5,3 +5,5 @@ Lets see if this changes anything
 So far so good. I'm going to just add another simple commit
 
 So, this is main. It has only the stuff I wrote in the beginning and now this. So now I have three branches with different stuff on each
+
+Lets make another commit in main branch and see if anything explodes
