@@ -7,3 +7,7 @@ So far so good. I'm going to just add another simple commit
 All good! Lets create a new branch and see what happens
 
 Now I'm in a new branch. Lets commit this and see what happens
+
+I needed to set an uptream branch for that commit, but it worked.
+Now I want to repread the process but seeing what happens if the branch I created in my 
+local rep and the upstream branch are not named the same.
