@@ -1,1 +1,5 @@
 So, lets start over and see if we learned anything
+
+I think this (my other brnach) is kind of my main branch now because I thing it was the firs one I commited to,
+so now in the git graph it appears as the first branch in the left. That is kind of annoying, but ok.
+Now "MyOtherBranch" is the mains branch (?)
