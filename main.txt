@@ -11,3 +11,5 @@ Lets make another commit in main branch and see if anything explodes
 I think we should do it again just for kicks
 
 Now lets merge all branches into main. My objective is to maintain this text exacly like it is now
+
+I just merged third branch into second branch, don't know if it worked. Lets see
