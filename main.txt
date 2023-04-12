@@ -15,3 +15,7 @@ Now lets merge all branches into main. My objective is to maintain this text exa
 I just merged third branch into second branch, don't know if it worked. Lets see
 
 It worked. Lets now merge the second branch into main. Wish me luck
+
+
+Apparently it worked. Lets see if changes I make to main branch now are automaticaly merged into the other ones, since they were merged with it
+I don't think so. They probably keep the state main was when I merged them 
