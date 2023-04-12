@@ -4,9 +4,14 @@ Lets see if this changes anything
 
 So far so good. I'm going to just add another simple commit
 
-All good! Lets create a new branch and see what happens
+So, this is main. It has only the stuff I wrote in the beginning and now this. So now I have three branches with different stuff on each
 
-Now I'm in a new branch. Lets commit this and see what happens
+Lets make another commit in main branch and see if anything explodes
 
-Ok, so now I'm in the second branch I created, and so the thing I commited in the third branch disappeared. So now I have branches with
-very different things on them. Lets see if it makes sense
+I think we should do it again just for kicks
+
+Now lets merge all branches into main. My objective is to maintain this text exacly like it is now
+
+I just merged third branch into second branch, don't know if it worked. Lets see
+
+It worked. Lets now merge the second branch into main. Wish me luck
