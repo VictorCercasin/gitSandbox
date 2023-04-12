@@ -8,8 +8,5 @@ All good! Lets create a new branch and see what happens
 
 Now I'm in a new branch. Lets commit this and see what happens
 
-I needed to set an uptream branch for that commit, but it worked.
-Now I want to repread the process but seeing what happens if the branch I created in my 
-local rep and the upstream branch are not named the same.
-
-So no, you can't create an upstream branch with a different name. Interesting
+Ok, so now I'm in the second branch I created, and so the thing I commited in the third branch disappeared. So now I have branches with
+very different things on them. Lets see if it makes sense
